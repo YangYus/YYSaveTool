@@ -4,7 +4,7 @@ YYSaveTool runtime实现一键归档 使用如下
 
 # 使用方法
 
-### 创建model继承YYSaveModel 定义你想要的存储的属性
+### 创建model继承YYSaveModel 定义你想要的属性类型 
 
 @interface Person : YYSaveModel
 
